@@ -1,0 +1,12 @@
+请将视频放在此文件夹。
+
+需要的视频名称：
+1. phoenix_daynight.mp4  （凤凰出版社：白天黑夜交替的秘密）
+2. phoenix_owl.mp4       （凤凰出版社：猫头鹰的颈椎）
+3. robot.mp4             （家用助行宝机器人）
+4. oasis.mp4             （绿洲 Oasis）
+5. dream_gongchenqiao.mp4（都市造梦：拱宸桥）
+6. dream_city.mp4        （都市造梦：市中心）
+7. dream_xihu.mp4        （都市造梦：西湖）
+
+不要修改文件名，否则网页无法读取。
